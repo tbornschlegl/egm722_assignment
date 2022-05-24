@@ -2,14 +2,14 @@ This code analyses changes in artisanal small-scale (ASM) mining activity at an 
 
 	Setup and installation 
 
-a)	Download my repository at my Github. You can find my repository at the following link: 
-The repository includes: 
+a)	Download my repository at my Github. The repository includes: 
 -	The Jupyter script for the code “Assignment_Script”
 -	The data files “sub_16.tif”, “sub_22-tif”)
 -	The Environment as environment.yml 
 -	Readme
 -	License 
 -	gitignore
+-	A pdf with a more detailed description of methods, data and results of running the code "Assignment Part 1"
 
 This code is written as a Jupyter notebook. To run this code, you best install Anaconda and the Jupyter notebook. 
 
